@@ -10,7 +10,7 @@ The project leverages Wav2Vec2 embeddings, MFCC features, dimensionality reducti
 Assignment 1 (EDA) : 
 https://colab.research.google.com/drive/14gQzUPjkXsWF_N9gNKz_hyb2WwbuOg8Y?usp=sharing
 
-Assignment 2 (Baselines) : 
+Assignment 2 (Baselines) : <br>
 MFCC Regression, Wav2vec2 + ridge, audiobox aesthetics : https://colab.research.google.com/drive/1HPiM030LOjpUwMpKmX914nE2w4CfFfh_?usp=sharing <br>
 MFCC + randomforestregressor : https://colab.research.google.com/drive/1gvAkLjIjye5VQsRgsKgRd1y8D9NPJ5PV?usp=sharing <br>
 Wav2vec2 + randomforestregressor : https://colab.research.google.com/drive/1xi6uR4RwILHh7ycVbBo5ucPoVtZuomD9?usp=sharing
